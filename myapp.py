@@ -1,7 +1,8 @@
+import yfinance as yf
 from matplotlib import ticker
 import streamlit as st
 import pandas as pd
-import yfinance as yf
+# pip install fix-yahoo-finance
 from matplotlib import ticker
 
 # https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
